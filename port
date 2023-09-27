@@ -1,0 +1,14 @@
+PORT    STATE SERVICE    VERSION
+25/tcp  open  smtp       Barracuda Networks Spam Firewall smtpd
+443/tcp open  ssl/https?
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|printer
+Running (JUST GUESSING): Linux 3.X (87%), Kyocera embedded (87%)
+OS CPE: cpe:/o:linux:linux_kernel:3.2.0 cpe:/h:kyocera:cs-2560
+Aggressive OS guesses: Linux 3.2.0 (87%), Kyocera CopyStar CS-2560 printer (87%)
+No exact OS matches for host (test conditions non-ideal).
+Uptime guess: 8.247 days (since Tue Sep 19 13:45:30 2023)
+Network Distance: 16 hops
+TCP Sequence Prediction: Difficulty=252 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: Host: email.rcilab.in; CPE: cpe:/h:barracudanetworks:spam_%26_virus_firewall_600:-
