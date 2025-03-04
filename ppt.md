@@ -33,3 +33,9 @@ Here are sentences for each point:
    - Provide clear, step-by-step guidance to resolve technical problems efficiently.  
 
 Let me know if you need any modifications! 🚀
+
+
+
+## DNS 
+
+DNS lets users connect to websites using domain names instead of IP addresses
